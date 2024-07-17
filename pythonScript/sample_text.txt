@@ -1,0 +1,4 @@
+Hello world! This is a sample text file.
+This file is used to demonstrate a simple word frequency counter.
+The quick brown fox jumps over the lazy dog.
+Hello again, world! Let's count how many times each word appears in this file.
